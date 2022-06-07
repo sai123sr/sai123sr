@@ -4,23 +4,26 @@
 
 　　　Rina　Saito
 
-<!-- コントリビューション数のグラフ-->
+<!-- コントリビューション数のグラフ　[1]-->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sai123sr&theme=vue)
 
-<!-- リポジトリステータス   commit数やPR数-->
+<!-- リポジトリステータス   commit数やPR数　[1]-->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sai123sr&show_icons=true)
 
+<!-- [2]
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=sai123sr&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/sai123sr/)
+-->
 
-<!-- ソースコード統計 言語の割合-->
+<!-- ソースコード統計 言語の割合　[1]-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sai123sr&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-<!-- 
+
+<!-- [2]
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sai123sr&layout=compact&theme=tokyonight)](https://github.com/sai123sr/)
 -->
 
 <!--- 参考サイト
-https://blog.cntlog.net/archives/4376
-https://blog.ue-y.me/github_profile_design/
+https://blog.cntlog.net/archives/4376　[1]
+https://blog.ue-y.me/github_profile_design/　[2]
 --->
 
 
