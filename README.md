@@ -1,12 +1,11 @@
 ## profile
 
-- name
-
 　　　Rina　Saito
 
--- Programming language I experienced
-
-
+## Programming language I experienced
+- Python
+- Java
+- C
 
 
 <!-- コントリビューション数のグラフ　[1]-->
