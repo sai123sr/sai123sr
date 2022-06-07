@@ -7,6 +7,9 @@
    - Java
    - C
 
+## What you are learning
+https://colab.research.google.com/drive/1t_QEXvkAk5k_vwYZCPHEg8u1a26vkQHV#scrollTo=kSPVOJvjt426
+
 
 <!-- コントリビューション数のグラフ　[1]-->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sai123sr&theme=vue)
