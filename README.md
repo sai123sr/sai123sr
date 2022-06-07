@@ -1,6 +1,6 @@
 ## profile
 
-　　 Rina　Saito
+　 Rina　Saito
 
 ## Programming language I experienced
    - Python
