@@ -2,11 +2,11 @@
 
 - name
 Rina　Saito
-<a href="https://github.com/ko31">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ko31&count_private=true&show_icons=true" />
+<a href="https://github.com/sai123sr">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sai123sr&count_private=true&show_icons=true" />
 </a>
-<a href="https://github.com/ko31">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ko31" />
+<a href="https://github.com/sai123sr">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai123sr" />
 </a>
 
 <!-- リポジトリステータス -->
