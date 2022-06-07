@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sai123sr 齊藤リナ
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+name
+Rina　Saito
+
+![gif](https://github.com/kotabrog/ft_mini_ls/blob/main/image/ft_mini_ls.gif)
+
 
 <!---
 sai123sr/sai123sr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
