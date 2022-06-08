@@ -10,7 +10,6 @@
 ## What you are learning
 #### Python
 - GAN(Keras)
-
 https://colab.research.google.com/gist/sai123sr/d30f36eb83b71b1ca128c109ffc7e7ea/gan-keras.ipynb
 
 - Natural language processing
