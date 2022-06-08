@@ -8,12 +8,18 @@
    - C
 
 ## What you are learning
+#### Python
 - GAN(Keras)
 <!--　GANを実装していく　 -->
 https://colab.research.google.com/drive/1t_QEXvkAk5k_vwYZCPHEg8u1a26vkQHV#scrollTo=kSPVOJvjt426
 
-- POV-Ray
-<!--　POV-Rayで作成したプログラム　テキストで表示 -->
+- Natural language processing
+https://colab.research.google.com/gist/sai123sr/f5e6c2a4b3a1d4dccf75ab34e1a8e967/-2-jpynb.ipynb
+https://colab.research.google.com/gist/sai123sr/61edf638d4718b9fa1d2448452e6d2fe/.ipynb
+
+
+#### POV-Ray
+- POV-Ray CG
 [CG animation.txt]
 (https://github.com/sai123sr/sai123sr/files/8857329/CG.animation.txt)
 
