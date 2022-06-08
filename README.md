@@ -10,8 +10,7 @@
 ## What you are learning
 #### Python
 - GAN(Keras)
-<!--　GANを実装していく　 -->
-https://colab.research.google.com/drive/1t_QEXvkAk5k_vwYZCPHEg8u1a26vkQHV#scrollTo=kSPVOJvjt426
+https://colab.research.google.com/gist/sai123sr/d30f36eb83b71b1ca128c109ffc7e7ea/gan-keras.ipynb
 
 - Natural language processing
 https://colab.research.google.com/gist/sai123sr/f5e6c2a4b3a1d4dccf75ab34e1a8e967/-2-jpynb.ipynb
@@ -20,11 +19,13 @@ https://colab.research.google.com/gist/sai123sr/61edf638d4718b9fa1d2448452e6d2fe
 
 #### POV-Ray
 - POV-Ray CG
+<!--- POV-Rayで作成した画像を動画化する
+ 　　　https://www.youtube.com/watch?v=WV4qXzM641o　の動画の作成--->
 [CG animation.txt]
 (https://github.com/sai123sr/sai123sr/files/8857329/CG.animation.txt)
 
 ![ta](https://user-images.githubusercontent.com/106720533/172506702-0dac6e45-c51f-4407-a35d-25771c45f35e.png)
-
+https://drive.google.com/drive/folders/1wNxmJtC1OaH5CIr40VKtkCytfpWmCgwj?usp=sharing
 https://www.youtube.com/watch?v=WV4qXzM641o
 ↑Reproduce
 
