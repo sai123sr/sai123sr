@@ -10,6 +10,7 @@
 ## What you are learning
 #### Python
 - GAN(Keras)
+
 https://colab.research.google.com/gist/sai123sr/d30f36eb83b71b1ca128c109ffc7e7ea/gan-keras.ipynb
 
 - Natural language processing
@@ -24,8 +25,13 @@ https://colab.research.google.com/gist/sai123sr/61edf638d4718b9fa1d2448452e6d2fe
 [CG animation.txt]
 (https://github.com/sai123sr/sai123sr/files/8857329/CG.animation.txt)
 
+Created video
+
 ![ta](https://user-images.githubusercontent.com/106720533/172506702-0dac6e45-c51f-4407-a35d-25771c45f35e.png)
 https://drive.google.com/drive/folders/1wNxmJtC1OaH5CIr40VKtkCytfpWmCgwj?usp=sharing
+
+Reference source
+
 https://www.youtube.com/watch?v=WV4qXzM641o
 ↑Reproduce
 
