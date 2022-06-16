@@ -9,7 +9,7 @@
 
 ## What you are learning
 #### HTML　web
-file:///C:/Users/OWNER/Desktop/html_test/index.html
+https://github.com/sai123sr/sai123sr.github.io
 
 #### Python
 <!-- 大学で学んでいるもの、まだ成果物を入れれていない -->
